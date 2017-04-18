@@ -1,1 +1,14 @@
-Biken Maharjan
+Name : Biken Maharjan
+Algebraic Algoeithms
+Boston University
+
+[Overview]
+The development and application of mathematics involves abstraction. A problem can be viewed at multiple levels of abstraction, and in developing mathematics humans have adopted a variety of techniques that allow them to successfully employ abstraction to study natural phenomena and solve problems.
+
+
+Some of the Assigment from Algebraic Algoeithms course.
++ Implementation of some of Cryptographic protocols 
++ Modular arithmetic
+
+
+  
